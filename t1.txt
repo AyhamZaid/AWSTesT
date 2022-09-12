@@ -1,4 +1,0 @@
-test
-welcome to re/start program 
-test1
-test2 
